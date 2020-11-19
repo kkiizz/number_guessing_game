@@ -14,7 +14,8 @@ fn main() {
     let secret_num: i32 = rand::thread_rng().gen_range(1, max_random_num+1);
 
     //let のままでは、変更を認められていないため、let mut
-    //配列やタプル、vecなどとは違い、数値は
+    //stringはムーブされるが、整数はコピーされる
+    //ムーブされると、let x = y のときは"y"が無効になる
     let mut count: i32 = max_input_count;
 
     loop {
