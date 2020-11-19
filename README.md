@@ -1,5 +1,4 @@
 # Number guessing game
-***
 Rustに慣れるために、ちょっと書いてみたものです。[Rust ProgrammingLanguage](https://doc.rust-lang.org/book/title-page.html)の”Programming a Guessing Game"を参考に書いてみました。段階を踏みながらコードを書き、その過程を"type_0.rs"から"type_8.rs"に残しました。それぞれのファイルについて、前のファイルから何を追記，変更したのかを以下にまとめます。
 
 # Information
