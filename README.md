@@ -36,6 +36,3 @@ Rustに慣れるために、ちょっと書いてみたものです。[Rust Prog
   - "ムーブ", "コピー", "let", "let mut", "/n"
 ## main.rs
 - 微調整　完成
-
-# 追記
-このコードではtraitやstruct, iterator, implなどは使わなかったので、他の機会に試す予定です。
