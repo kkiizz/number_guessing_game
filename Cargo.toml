@@ -1,5 +1,5 @@
 [package]
-name = "hello_rust"
+name = "number_guessing_game"
 version = "0.1.0"
 authors = ["kkiizz"]
 edition = "2018"
